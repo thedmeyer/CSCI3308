@@ -1,2 +1,3 @@
 Here is a new file that was created on a separate branch.
 
+Here is an edit to the file after checking out this branch.
